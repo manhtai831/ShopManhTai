@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "822350491039",
+    "firebase_url": "https://testimage-948d3.firebaseio.com",
+    "project_id": "testimage-948d3",
+    "storage_bucket": "testimage-948d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822350491039:android:3da8bf61c99c5f301461aa",
+        "android_client_info": {
+          "package_name": "com.manhtai.shopmanhtai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822350491039-l1r7k23ppr3p3gf9h22lmcdtivbo2fpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtIkKDmGclgVrtmMO-Leh1gNuE_YpEvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822350491039-l1r7k23ppr3p3gf9h22lmcdtivbo2fpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822350491039:android:65bd4cd376a1a4681461aa",
+        "android_client_info": {
+          "package_name": "com.manhtai.uploadimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822350491039-l1r7k23ppr3p3gf9h22lmcdtivbo2fpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtIkKDmGclgVrtmMO-Leh1gNuE_YpEvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822350491039-l1r7k23ppr3p3gf9h22lmcdtivbo2fpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

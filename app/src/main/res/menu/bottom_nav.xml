@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/suggestion_today"
+        android:icon="@drawable/ic_like_48"
+        android:title="@string/suggestion_today" />
+    <item
+        android:id="@+id/shop_feed"
+        android:icon="@drawable/ic_feed_48"
+        android:title="@string/shop_feed" />
+    <item
+        android:id="@+id/shop_live"
+        android:icon="@drawable/ic_live_48"
+        android:title="@string/shop_live" />
+    <item
+        android:id="@+id/shop_notification"
+        android:icon="@drawable/ic_bell_48"
+        android:title="@string/notification" />
+    <item
+        android:id="@+id/shop_me"
+        android:icon="@drawable/ic_me_48"
+        android:title="@string/me" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shop Manh Tai</string>
+    <string name="suggestion_today">Gợi ý hôm nay</string>
+    <string name="shop_feed">Shop Feed</string>
+    <string name="shop_live">Shop Live</string>
+    <string name="notification">Thông báo</string>
+    <string name="me">Tôi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
